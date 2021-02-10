@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
+# adding one more line of comments
 * text=auto
+
